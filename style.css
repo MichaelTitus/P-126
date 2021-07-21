@@ -1,0 +1,30 @@
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin:0px;
+}
+.NOTE{
+    font-size:15px;
+    color:firebrick;
+    font-weight: bold;
+}
+body{
+    background-size:cover;
+}
+.div_botw{
+    float:left;
+
+}
+.div_fly{
+    float:right;
+    
+}
+.div_botw_img, .div_fly_img{
+    width:200px;
+    border-radius:50%;
+}
+
+#botw,#fly{
+    font-size:20px;
+    margin:15px;
+}
